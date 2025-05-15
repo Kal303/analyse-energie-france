@@ -7,6 +7,8 @@ Méthodologie :
 - Création de tableaux croisées dynamiques pour synthétiser les informations.
 - Génération de graphiques pour visualiser les tendances et les comparaisons régionales.
 - Rédaction d'une analyse détaillée des résultats obtenus.
+- Visualisation de données
+- Analyse statistique avec Google Colab (t-test, régression linéaire)
 
 Résultats :
 Les principaux résultats et visualisations sont disponibles dans le dossier 'rapport/' et les graphiques dans le dossier 'images/'.
@@ -19,3 +21,11 @@ Organisation du projet
 - 'data/' : Fichier source des données.
 - 'image/' : Graphiques extraits de l'analyse.
 - 'rapport/' : Rapport final au format PDF.
+  
+[Données source](data/energie_regions_france.ods)
+  - [Graphiques](image/g_total_repartition.png)
+  - [Notebook Colab](code/colab_analyse_energie.ipynb)
+  - [Rapport PDF](rapport/energie_regions_france_fin.pdf)
+  
+
+ 
