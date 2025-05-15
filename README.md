@@ -15,7 +15,7 @@ Notebook complémentaire
 Une première analyse statistique a été réalisée avec Google Colab : test statistique et début de modélisation (régression linéaire).
 
 Organisation du projet
+- 'code/' : Notebook Google Colab.
 - 'data/' : Fichier source des données.
 - 'image/' : Graphiques extraits de l'analyse.
-- 'code/' : Notebook Google Colab.
 - 'rapport/' : Rapport final au format PDF.
