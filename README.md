@@ -8,10 +8,10 @@ Méthodologie :
 - Génération de graphiques pour visualiser les tendances et les comparaisons régionales.
 - Rédaction d'une analyse détaillée des résultats obtenus.
 
-Résultats
+Résultats :
 Les principaux résultats et visualisations sont disponibles dans le dossier 'rapport/' et les graphiques dans le dossier 'images/'.
 
-Notebook complémentaire
+Notebook complémentaire :
 Une première analyse statistique a été réalisée avec Google Colab : test statistique et début de modélisation (régression linéaire).
 
 Organisation du projet
