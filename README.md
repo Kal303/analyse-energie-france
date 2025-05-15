@@ -11,7 +11,11 @@ Méthodologie :
 Résultats
 Les principaux résultats et visualisations sont disponibles dans le dossier 'rapport/' et les graphiques dans le dossier 'images/'.
 
+Notebook complémentaire
+Une première analyse statistique a été réalisée avec Google Colab : test statistique et début de modélisation (régression linéaire).
+
 Organisation du projet
 - 'data/' : Fichier source des données.
-- 'image/' : Graphiques extraits de l'analyse
+- 'image/' : Graphiques extraits de l'analyse.
+- 'code/' : Notebook Google Colab.
 - 'rapport/' : Rapport final au format PDF.
